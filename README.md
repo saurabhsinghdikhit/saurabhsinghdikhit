@@ -19,7 +19,7 @@
 ### Languages and Tools:
 <img align="left" alt="AI" width="26px" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="ASP.net" width="26px" src="https://www.flaticon.com/free-icon/asp-file-format-symbol_29143">
+<img align="left" alt="ASP.net" width="26px" src="https://image.flaticon.com/icons/svg/29/29143.svg">
 <img align="left" alt="JAVA" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="C/C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
