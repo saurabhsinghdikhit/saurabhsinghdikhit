@@ -20,7 +20,7 @@
 
 <br />
 <br />
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://developersaurabh.ml
 [twitter]: https://twitter.com/Saurabh89157654
