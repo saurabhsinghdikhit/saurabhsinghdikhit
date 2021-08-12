@@ -40,7 +40,7 @@
 <br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhsinghdikhit&show_icons=true&hide_border=true" />
 
-[website]: https://developersaurabh.ml
+[website]: https://saurabhsingh.ml
 [twitter]: https://twitter.com/Saurabh89157654
-[instagram]: https://instagram.com/damn_rajput/
+[instagram]: https://instagram.com/subhu.rajput._/
 [linkedin]: https://linkedin.com/in/saurabh-singh-42a727148/
