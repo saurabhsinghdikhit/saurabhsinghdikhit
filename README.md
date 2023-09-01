@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="developersaurabh.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://saurabhsingh.cf/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Saurabh Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Saurabh Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Saurabh Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -40,7 +40,7 @@
 <br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saurabhsinghdikhit&show_icons=true&hide_border=true" />
 
-[website]: https://saurabhsingh.ml
+[website]: https://saurabhsingh.cf
 [twitter]: https://twitter.com/Saurabh89157654
 [instagram]: https://instagram.com/subhu.rajput._/
-[linkedin]: https://linkedin.com/in/saurabh-singh-42a727148/
+[linkedin]: https://linkedin.com/in/developersaurabhsingh/
